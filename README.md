@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lmgarvaz
-- 👀 I’m interested in develop office plugins
+- 👀 I’m interested in develop C# apps, office apps and backend apps
 - 🌱 I’m currently learning .net, java, golang, python
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me @garvazsof on Telegram, @garvaz on Twitter
